@@ -32,7 +32,7 @@ The designs were created to the following widths:
 ### Fonts
 
 - Family: [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin)
-- Weights: 400, 600, 700
+- Weights: 300, 600, 700
 
 ## Icons
 
