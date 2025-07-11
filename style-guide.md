@@ -13,17 +13,17 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Blue: hsl(223, 87%, 63%)
+- Blue 500: hsl(223, 87%, 63%)
 
 ### Secondary
 
-- Pale Blue: hsl(223, 100%, 88%)
-- Light Red: hsl(354, 100%, 66%)
+- Blue 200: hsl(223, 100%, 88%)
+- Red 400: hsl(354, 100%, 66%)
 
 ### Neutral
 
-- Gray: hsl(0, 0%, 59%)
-- Very Dark Blue: hsl(209, 33%, 12%)
+- Gray 400: hsl(0, 0%, 59%)
+- Blue 950: hsl(209, 33%, 12%)
 
 ## Typography
 
